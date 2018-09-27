@@ -1,0 +1,5 @@
+
+//Challenge: using a for loop, count from 0, going down by 2's to -24
+for (let i = 0; i >= -24; i-=-2){
+  console.log(i);
+}
